@@ -1,0 +1,69 @@
+body{
+    background-color: black;
+}
+#half{
+    /* text-decoration:rgb(12, 211, 22); */
+    margin-top: 12%;
+    }
+    
+    .half-width{
+        width:40%;
+        float:left;
+        margin-left: 5%;
+        padding-left: 2%;
+    }
+    section{
+        height: 500px;
+        padding-bottom: 150px;
+    }
+    .link-button{
+        text-decoration: none;
+        background-color: chartreuse;
+        padding: 10px 20px;
+        border-radius: 5px;
+        color:rgb(15, 15, 14);
+        font-weight: 500;
+       
+        
+    }
+
+    #blogArea {
+
+        
+        margin : 20px 30px 20px 30px;
+        
+    }
+    
+    #blogArea h3{
+        text-align: center;
+    }
+    .card{
+        border:2px solid chartreuse;
+        margin : 30px;
+
+    }
+    #TravelArea{
+        /* border : 3px solid chartreuse; */
+        
+        margin : 20px 30px 20px 30px;
+        
+    }
+    #TravelArea h3{
+        text-align: center;
+    }
+
+    .footer{
+        text-align: center;
+        background-color:grey;
+        width: auto;
+        height: 250px;
+    }
+    .footer h3{
+        color:chartreuse
+    }
+    @media(max-width:1920px){
+        
+    }
+    @media (max-width:668px){
+        
+    }
